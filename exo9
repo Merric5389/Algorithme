@@ -1,0 +1,11 @@
+Algorithme   somme
+Var:
+  s,a: entiers
+Debut
+  s<-0
+  Repeter
+   Ecrire"Entrez un nombre"
+   Lire a
+   s<-s+a
+   jusqu'a s>=100
+Fins
