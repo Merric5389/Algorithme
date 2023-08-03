@@ -1,0 +1,12 @@
+Algorithme table10;
+Var:
+  a,i,multi: entiers;
+Debut
+  a<-0
+  Repeter
+  multi<-a*i;
+  Ecrire a"*",i,"=",multi;
+  i<- i+1
+  a<-a+1
+  jusqu'a i=10
+fin
