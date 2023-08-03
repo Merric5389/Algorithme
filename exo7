@@ -1,0 +1,10 @@
+Algorithme   table de 8
+Var:
+  i,m: entiers;
+Debut
+  m<-0
+  pour i->0 a 10
+    m<-8*i
+   Afficher"8*","i",=,m
+  fin pour
+fin
