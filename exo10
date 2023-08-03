@@ -1,0 +1,6 @@
+Algorithme   affichage
+Var:
+  Bonjour: chaine de caractere
+Debut
+  Ecrire "BONJOUR"
+Fin
