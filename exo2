@@ -1,0 +1,9 @@
+Algorithme        nombre
+var: 
+   a1:entiers
+debut
+   Repeter
+   Afficher"entrer un nombre"
+   saisir a1
+   jusqu'a (a1>=1) abd (a1<=3);
+fin
