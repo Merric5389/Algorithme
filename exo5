@@ -1,0 +1,13 @@
+Algorithme  paire impaire
+Var:
+   nombre: entier
+Debut
+   Ecrrire "entrez un nombre"
+   Lire nombre
+   si nombre mod 2=0 alors
+     Ecrire"le nombre est paire"
+   sinon
+     Ecrire "le nombre est impaire"
+   fin si
+fin
+   
