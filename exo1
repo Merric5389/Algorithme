@@ -1,0 +1,11 @@
+Algorithme      nombre;
+Var:
+   c,n: entiers;
+Debut
+   Ecrire"entrez un nombre"
+   Lire n;
+    c<——1
+   tant que c<=10 faire
+     Ecrire "le nombre suivant est",n+c;
+   fin tant que
+fin
