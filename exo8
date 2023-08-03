@@ -1,0 +1,9 @@
+Algorithme  reponse
+Var:
+  reponse: chaine bde caractere
+Debut
+  repeter
+  Ecrire"Aimez-vous l'informatique?"
+  Lire reponse
+  jusqu'a reponse<- "oui" or "non"
+Fin
